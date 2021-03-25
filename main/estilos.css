@@ -1,15 +1,31 @@
+
 body {
+    background-image: url(https://ep01.epimg.net/verne/imagenes/2020/03/02/articulo/1583169237_876817_1583173125_noticia_normal.jpg);
     background-color: aqua;
+    background-repeat: repeat;
+
 }
 h1 {
+    font-family:'New Tegomin', serif;
     text-align: center;
 }
 h2 {
+    font-family:'New Tegomin', serif;
     text-align: center;
 }
 p { 
+    font-family:'New Tegomin', serif;
+    font-style: normal;
+    font-size: 40px;
     text-align: center;
 }
 ul {
+    font-family:'New Tegomin', serif;
     text-align: center;
 }
+img{
+    display: block;
+    margin:auto;
+    
+}
+
